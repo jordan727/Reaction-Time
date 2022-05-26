@@ -1,6 +1,4 @@
-// 5 round reaction test
-// average out scores after 5 rounds
-// give appropriate response to users average
+// React! By Jordan Antonio
 
 // Initialize canvas and graphics context
 let cnv = document.getElementById("reactionCanvas");
